@@ -8,7 +8,7 @@ Table of Content :
 
 Assignment       | Link                                                                  |
 -----------------|-----------------------|
-  read01         |  [read01](read01.mk)  |
-  read02a        |  [read02a](read2a.mk) |
-  read02b        |  [read02b](read2b.mk) |
-  read03         |  [read03](read03.mk)  |
+  read01         |  [read01](read01.md)  |
+  read02a        |  [read02a](read2a.md) |
+  read02b        |  [read02b](read2b.md) |
+  read03         |  [read03](read03.md)  |
