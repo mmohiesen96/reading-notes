@@ -12,3 +12,4 @@ Assignment       | Link                                                         
   read02a        |  [read02a](read2a.md) |
   read02b        |  [read02b](read2b.md) |
   read03         |  [read03](read03.md)  |
+  read04a        |  [read04a](read04a.md)|
