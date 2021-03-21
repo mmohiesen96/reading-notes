@@ -13,4 +13,4 @@ Assignment       | Link                                                         
   read02b        |  [read02b](read2b.md) |
   read03         |  [read03](read03.md)  |
   read04a        |  [read04a](read04a.md)|
-  read04a        |  [read04a](read05.md)|
+  read04a        |  [read04a](read05.md) |
