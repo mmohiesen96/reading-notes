@@ -28,3 +28,6 @@ Types of expressions :
 - **String operators :** to concatenate a string or delete from ex. "+".
 - **Comparison operators :** to compare between to values "<,>,<=,>=,!="
 - **Logical operators :** to evaluate logical expressions like "and" and "or" using "&& , ||".
+
+
+Functions :
