@@ -30,7 +30,7 @@ Assignment       | Link                                              |
   read01         |  [Introductory JavaScript and HTML](201/read01.md)      |
   read02         |  [Basics of HTML, CSS & JS        ](201/read02.md)      |
   read03         |  [HTML Lists, CSS Boxes, JS Control Flow](201/read03.md)|
-  read04         |  [](201/read04.md)|
+  read04         |  [HTML Links, CSS Layout, JS Functions](201/read04.md)  |
   read05         |  [](201/read05.md)|
   read06         |  [](201/read06.md)|
   read07         |  [](201/read07.md)|
