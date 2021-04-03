@@ -32,7 +32,7 @@ Assignment       | Link                                              |
   read03         |  [HTML Lists, CSS Boxes, JS Control Flow](201/read03.md)|
   read04         |  [HTML Links, CSS Layout, JS Functions](201/read04.md)  |
   read05         |  [HTML Images; CSS Color & Text](201/read05.md)         |
-  read06         |  [](201/read06.md)|
+  read06         |  [JS Object Literals; The DOM](201/read06.md)|
   read07         |  [](201/read07.md)|
   read08         |  [](201/read08.md)|
   read09         |  [](201/read09.md)|
