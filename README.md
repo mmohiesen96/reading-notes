@@ -34,7 +34,7 @@ Assignment       | Link                                              |
   read05         |  [HTML Images; CSS Color & Text](201/read05.md)         |
   read06         |  [JS Object Literals; The DOM](201/read06.md)           |
   read07         |  [HTML Tables; JS Constructor Functions](201/read07.md) |
-  read08         |  [](201/read08.md)|
+  read08         |  [CSS Layout](201/read08.md)                            |
   read09         |  [](201/read09.md)|
   read10         |  [](201/read10.md)|
   read11         |  [](201/read11.md)|
