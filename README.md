@@ -1,12 +1,12 @@
 # reading-notes
 
 Hello , My name is Mohammed mohiesen , i'am 25 yrs. old  , i'am an ambitious developer and i 
-Hope to do my best to ge the most of this course .
+Hope to do my best to get the most of this course, and these are my Reading notes which i briefly describe What I have concluded from the reading assignments That I've done .
 
 
 Table of Content : 
 
-## Code 102 Reading notes :
+##   Code 102 - Intro to Software Development Reading notes :
 _______________________________________________________________________________
 
 Assignment       | Link                                              |
@@ -22,7 +22,7 @@ Assignment       | Link                                              |
 
   ______________________________________________________________________________
 
-  ## Code 201 Reading notes :
+  ## Code 201 - Foundations of Software Development Reading notes :
   ______________________________________________________________________________
 
   Assignment     |  Link                                                        |
@@ -43,3 +43,28 @@ Assignment       | Link                                              |
   read13b        |  [CSS Transforms, Transitions,and Animations](201/read13b.md)|
   read14         |  [Google's Perfect team](201/read14.md)                      |
   
+## Code 301 - Intermediate Software Development Reading notes :
+
+
+
+  Assignment     |  Link                                                        |
+  ---------------|---------------------------------------------------           |
+  read01         ||
+  read02         ||
+  read03         ||
+  read04         ||
+  read05         ||
+  read06         ||
+  read07         ||
+  read08         ||
+  read09         ||
+  read10         ||
+  read11         ||
+  read12         ||
+  read13         ||
+  read14         ||
+  read15         ||
+
+
+
+## Code 401 - Advanced Software Development Reading notes :
