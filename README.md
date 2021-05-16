@@ -49,7 +49,7 @@ Assignment       | Link                                              |
 
   Assignment     |  Link                                                        |
   ---------------|---------------------------------------------------           |
-  read01         ||
+  read01         |[Class 01](301/read01.md)                                     |
   read02         ||
   read03         ||
   read04         ||
