@@ -54,7 +54,7 @@ Assignment       | Link                                              |
   read03         |[Class 03](301/read03.md)                                     |
   read04         |[Class 04](301/read04.md)                                     |
   read05         |[Class 05](301/read05.md)                                     |
-  read06         ||
+  read06         |[Class 06](301/read06.md)                                     |
   read07         ||
   read08         ||
   read09         ||
