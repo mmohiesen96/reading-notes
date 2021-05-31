@@ -59,8 +59,8 @@ Assignment       | Link                                              |
   read08         |[Class 08](301/read08.md)                                     |
   read09         |[Class 09](301/read09.md)                                     |
   read10         |[Class 10](301/read10.md)                                     |
-  read11         ||
-  read12         ||
+  read11         |[Class 11](301/read11.md)                                     |
+  read12         |[Class 12](301/read12.md)                                     |
   read13         ||
   read14         ||
   read15         ||
