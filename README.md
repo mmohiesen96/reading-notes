@@ -61,7 +61,7 @@ Assignment       | Link                                              |
   read10         |[Class 10](301/read10.md)                                     |
   read11         |[Class 11](301/read11.md)                                     |
   read12         |[Class 12](301/read12.md)                                     |
-  read13         ||
+  read13         |[Class 13](301/read13.md)                                     |
   read14         ||
   read15         ||
 
