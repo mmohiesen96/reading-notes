@@ -68,3 +68,9 @@ Assignment       | Link                                              |
 
 
 ## Code 401 - Advanced Software Development Reading notes :
+
+
+  Assignment     |  Link                                                        |
+  ---------------|---------------------------------------------------           |
+  read01         |[Class 01](401/read01.md)                                     |
+  
