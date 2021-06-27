@@ -73,4 +73,5 @@ Assignment       | Link                                              |
   Assignment     |  Link                                                        |
   ---------------|---------------------------------------------------           |
   read01         |[Class 01](401/read01.md)                                     |
+  read02         |[Class 02](401/read02.md)                                     |
   
