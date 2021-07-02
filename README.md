@@ -74,6 +74,8 @@ Assignment       | Link                                              |
   read02         |[Class 02](401/read02.md)                                     |
   read03         |[Class 03](401/read03.md)                                     |
   read04         |[OOP](401/read04.md)                                     |
+  read05         |[Linked Lists](401/read05.md)                                     |
+  read05         |[Inheritance and Interfaces](401/read06.md)                                     |
 
 
   
