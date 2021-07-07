@@ -75,7 +75,9 @@ Assignment       | Link                                              |
   read03         |[Class 03](401/read03.md)                                     |
   read04         |[OOP](401/read04.md)                                     |
   read05         |[Linked Lists](401/read05.md)                                     |
-  read05         |[Inheritance and Interfaces](401/read06.md)                                     |
+  read06         |[Inheritance and Interfaces](401/read06.md)                                     |
+  read08         |[OO Design](401/read08.md)                                     |
+  read09         |[WRRC and Java](401/read09.md)                                     |
 
 
   
