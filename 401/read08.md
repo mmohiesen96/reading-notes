@@ -40,5 +40,3 @@
 - both high level and low level modules depends on abstraction .
 
 - This principle is concerned with abstraction and not counting on another class or (sub classes ) .
-
-- 
