@@ -78,6 +78,4 @@ Assignment       | Link                                              |
   read06         |[Inheritance and Interfaces](401/read06.md)                                     |
   read08         |[OO Design](401/read08.md)                                     |
   read09         |[WRRC and Java](401/read09.md)                                     |
-
-
-  
+  read10         |[Stacks and Queues](401/read10.md)                                     |
