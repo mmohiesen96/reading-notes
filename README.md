@@ -80,3 +80,5 @@ Assignment       | Link                                              |
   read09         |[WRRC and Java](401/read09.md)                                     |
   read10         |[Stacks and Queues](401/read10.md)                                     |
   read11         |[Spring](401/read11.md)                                     |
+  read12         |[Spring RESTful Routing & Static Files](401/read13.md)                                     |
+  read13         |[Related Resources and Integration Testing](401/read13.md)                                     |
