@@ -83,3 +83,4 @@ Assignment       | Link                                              |
   read12         |[Spring RESTful Routing & Static Files](401/read12.md)                                     |
   read13         |[Related Resources and Integration Testing](401/read13.md)                                     |
   read14         |[Trees](401/read14.md)                                     |
+  read16         |[Spring Authentication](401/read16.md)                                     |
