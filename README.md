@@ -84,3 +84,7 @@ Assignment       | Link                                              |
   read13         |[Related Resources and Integration Testing](401/read13.md)                                     |
   read14         |[Trees](401/read14.md)                                     |
   read16         |[Spring Authentication](401/read16.md)                                     |
+  read17         |[Spring Authorization](401/read17.md)                                     |
+  read18         |[Web App Security](401/read18.md)                                     |
+  read19         |[Spring and Sockets](401/read19.md)                                     |
+  read26         |[Android Fundamentals](401/read26.md)                                     |
