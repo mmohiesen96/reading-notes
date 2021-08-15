@@ -88,3 +88,6 @@ Assignment       | Link                                              |
   read18         |[Web App Security](401/read18.md)                                     |
   read19         |[Spring and Sockets](401/read19.md)                                     |
   read26         |[Android Fundamentals](401/read26.md)                                     |
+  read27         |[Intents, Activities, and SharedPreferences](401/read27.md)                                     |
+  read28         |[RecyclerView](401/read28.md)                                     |
+  read30         |[Hash Tables](401/read30.md)                                     |
